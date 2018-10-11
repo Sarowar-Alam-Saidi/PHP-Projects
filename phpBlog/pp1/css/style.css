@@ -1,0 +1,23 @@
+.full{
+	background:#F5F5F5;
+	border:2px solid black;
+}
+.aliya{
+	margin-left:50px;
+	color:#030303;
+}
+.right_side{
+	background:#F0F0F0;
+	height:800px;
+	margin-top:5px;
+}
+.left-side{
+	background:#F0F0F0;
+	height:800px;
+	margin-top:5px;
+}
+.footer{
+	height:150px;
+	margin-top:-15px;
+	background:#F0F0F0;
+}

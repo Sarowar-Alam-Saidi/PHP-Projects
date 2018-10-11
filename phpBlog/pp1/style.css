@@ -1,0 +1,42 @@
+.full{
+	background:#F5F5F5;
+	border:2px solid black;
+}
+.aliya{
+	margin-left:50px;
+	color:#030303;
+}
+.right_side{
+	background:#F0F0F0;
+	height:auto;
+	padding-bottom: 10px;
+}
+.left-side{
+	background:#F0F0F0;
+	height: auto;
+	padding-bottom: 10px;
+
+}
+
+p{
+	padding:10px;
+}
+.aa{
+	font-size: 18px;
+}
+.hh{
+	color: red;
+	margin-left: 3px;
+}
+.hhf{
+	color: green;
+	text-align: center;
+	border-bottom: 1px solid red;
+}
+.searchbox{
+	margin-top: 5px;
+}
+.gat{
+	margin-top: 2px;
+	margin-left: 190px;
+}

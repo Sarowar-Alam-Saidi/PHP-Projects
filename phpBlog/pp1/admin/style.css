@@ -1,0 +1,53 @@
+.full{
+	background:#F5F5F5;
+	border:2px solid black;
+}
+.aliya{
+	margin-left:50px;
+	color:#030303;
+}
+.right_side{
+	background:#F0F0F0;
+	height:auto;
+	margin-top:5px;
+}
+.left-side{
+	background:#F0F0F0;
+	height:auto;
+	margin-top:5px;
+}
+.footer{
+	height:150px;
+	margin-top:-15px;
+	background:#F0F0F0;
+}
+.r{
+	color:purple;
+}
+.f{
+	color:black;
+	font-size:18px;
+	text-align:justify;
+	padding-top:5px;
+	padding-bottom:5px;
+	font-family:Segoe Print;
+}
+.sty{
+	border:2px solid black;
+}
+.r{
+text-align:center;
+color:red;
+font-family:Segoe Print;
+margin:10px;
+font-size:30px;
+}
+.tt{
+	margin-top:5px;
+}
+.tt:hover{
+	background:blue;
+}
+.tt:hover{
+	transition:1s all linear;
+}
